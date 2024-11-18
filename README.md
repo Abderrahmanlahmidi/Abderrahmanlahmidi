@@ -1,10 +1,10 @@
-<h1 align="start">Hi 👋, I'm</h1>
+<h1 align="start">Hi 👋, I'm Abderrahmane lahmidi</h1>
 
-![Banner de Condor Coders](Header.png)
+![Banner de Condor Coders](Header.gif)
 
 <h3 align="start">From Morroco</h3>
 
-<h3 align="start">A passionate frontend developer from Morroco See my <a href="https://drive.google.com/file/d/1sLPclIBZHqTLqding1NsANPGJwQYYiwB/view?usp=drive_link" >Resume</a> </h3>
+<h3 align="start">A passionate frontend developer from Morroco</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-lahmidi/)
 [![X](https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Abderra47978756)
