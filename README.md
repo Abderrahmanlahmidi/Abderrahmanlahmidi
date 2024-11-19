@@ -1,6 +1,6 @@
-<h1 align="start">Hi 👋, I'm Abderrahmane lahmidi</h1>
+<h1 align="start">Hi 👋, I'm</h1>
 
-![Banner de Condor Coders](Header.gif)
+![Banner de Condor Coders](Header.png)
 
 <h3 align="start">From Morroco</h3>
 
