@@ -4,7 +4,7 @@
 
 <h3 align="start">From Morroco</h3>
 
-<h3 align="start">A passionate frontend developer from Morroco</h3>
+<h3 align="start">A passionate Full-Stack developer from Morroco</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-lahmidi/)
 [![X](https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Abderra47978756)
